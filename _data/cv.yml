@@ -1,0 +1,63 @@
+cv:
+  name: Joost Bus
+  label: ""
+  email: joost.bus@hotmail.com
+  location: Zurich, Switzerland
+  image: ""
+  summary: Physicist specializing in nanophotonics and optomechanics, with foundations in applied mathematics.
+
+  social_networks:
+    - network: GitHub
+      username: soosub
+    - network: LinkedIn
+      username: jcpbus
+
+  sections:
+    Experience:
+      - company: ETH Zurich — Nanophotonic Systems Laboratory
+        position: PhD Researcher
+        location: Zurich, Switzerland
+        start_date: 2025-08
+        end_date: present
+        highlights:
+          - Cavity optomechanics with optically levitated nanoparticles.
+
+      - company: Extropic
+        position: Hardware Scientist
+        location: Sherbrooke, Canada
+        start_date: 2022-11
+        end_date: 2025-01
+        highlights:
+          - Nanofabrication and experimentation of superconducting hardware for thermodynamic computing.
+
+      - company: Xanadu
+        position: Research Resident
+        location: Toronto, Canada
+        start_date: 2022-05
+        end_date: 2022-08
+        highlights:
+          - Quantum error correction research on the FlamingPy software package.
+
+    Education:
+      - institution: ETH Zurich
+        location: Zurich, Switzerland
+        area: Quantum Engineering
+        studyType: MSc
+        start_date: 2020-09
+        end_date: 2023-05
+        highlights:
+          - "Thesis project (Hybrid Quantum Systems group) on microfabrication of high-overtone bulk acoustic resonators, contributing to a Science publication on a mechanical qubit."
+
+      - institution: Delft University of Technology
+        location: Delft, Netherlands
+        area: Applied Physics
+        studyType: BSc
+        start_date: 2017
+        end_date: 2020
+
+      - institution: Delft University of Technology
+        location: Delft, Netherlands
+        area: Applied Mathematics
+        studyType: BSc
+        start_date: 2017
+        end_date: 2020
