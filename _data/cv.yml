@@ -38,8 +38,7 @@ cv:
     Education:
       - institution: ETH Zurich
         location: Zurich, Switzerland
-        area: Quantum Engineering
-        studyType: MSc
+        area: MSc Quantum Engineering
         start_date: 2020-09
         end_date: 2023-05
         highlights:
@@ -47,14 +46,12 @@ cv:
 
       - institution: Delft University of Technology
         location: Delft, Netherlands
-        area: Applied Physics
-        studyType: BSc
+        area: BSc Applied Physics
         start_date: 2017
         end_date: 2020
 
       - institution: Delft University of Technology
         location: Delft, Netherlands
-        area: Applied Mathematics
-        studyType: BSc
+        area: BSc Applied Mathematics
         start_date: 2017
         end_date: 2020
