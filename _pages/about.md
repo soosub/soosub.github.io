@@ -5,13 +5,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>ETH Zurich</p>
-    <p>Zurich, Switzerland</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -40,5 +37,5 @@ architecture team on their quantum error correction simulation software,
 with superconducting circuits.
 
 I'm broadly interested in quantum technologies, unconventional computing paradigms,
-and nanofabrication. I've worked with superconductors and MEMS, and I'm now working
+and nanofabrication. I've worked with superconductors and mechanics, and I'm now working
 in photonics.
