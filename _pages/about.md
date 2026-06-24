@@ -22,8 +22,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Joost! I grew up in Limburg, the Netherlands and studied in Delft and Zurich. I'm a PhD
-student at ETH Zurich in the field of optomechanics at the [Nanophotonic Systems
+Hi, I'm Joost! I grew up in Limburg, the Netherlands and studied in Delft and Zurich. I'm a
+[PhD student](https://light.ethz.ch/people/person-detail.Mjc5MTAy.TGlzdC8zODc5LC0zNzI4ODE3MTY=.html)
+at ETH Zurich in the field of optomechanics at the [Nanophotonic Systems
 Laboratory](https://light.ethz.ch/). My research focuses on the interaction between
 light and mechanical motion, combining levitated nanoparticles with integrated
 photonics. In my free time, I like to collect elevation meters on foot or bike for Strava and my little sister.
