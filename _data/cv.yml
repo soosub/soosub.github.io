@@ -1,10 +1,7 @@
 cv:
   name: Joost Bus
-  label: ""
   email: joost.bus@hotmail.com
   location: Zurich, Switzerland
-  image: ""
-  summary: Physicist specializing in nanophotonics and optomechanics, with foundations in applied mathematics.
 
   social_networks:
     - network: GitHub
