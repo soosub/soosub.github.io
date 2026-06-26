@@ -27,7 +27,7 @@ Hi, I'm Joost! I grew up in Limburg, the Netherlands and studied in Delft and Zu
 at ETH Zurich in the field of optomechanics at the [Nanophotonic Systems
 Laboratory](https://light.ethz.ch/). My research focuses on the interaction between
 light and mechanical motion, combining levitated nanoparticles with integrated
-photonics. In my free time, I like to collect elevation meters on foot or bike for Strava and my little sister.
+photonics. In my free time, I like to collect elevation meters on foot or bike 🚲
 
 During my master's at ETH, I worked on electromechanical systems in the quantum
 regime in the [Hybrid Quantum Systems group](https://hyqu.ethz.ch/). I was also a
