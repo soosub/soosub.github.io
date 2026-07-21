@@ -33,8 +33,8 @@ side of this pursuit: how to actually build interesting and useful nanoscale sys
 Those interests run through most projects I've worked on in the last few years. 
 During my master's in the [Hybrid Quantum Systems group](https://hyqu.ethz.ch/) 
 at ETH, I fabricated and measured electromechanical systems in the quantum regime where 
-information is encoded in mechanical motion. As a resident at [Xanadu](https://xanadu.ai/) in Toronto
-(2022), I developed software with the architecture team for
+information is encoded in mechanical motion. As a resident at [Xanadu](https://xanadu.ai/) in Toronto, 
+I developed software with the architecture team for
 [FlamingPy](https://github.com/XanaduAI/flamingpy), their photonic
 quantum-error-correction simulator, and wrote a 
 [demo on measurement-based quantum computation](https://pennylane.ai/demos/tutorial_mbqc). 
