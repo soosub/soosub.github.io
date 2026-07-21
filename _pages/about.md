@@ -22,21 +22,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Joost! I grew up in Limburg, the Netherlands and studied in Delft and Zurich. I'm a
-[PhD student](https://light.ethz.ch/people/person-detail.Mjc5MTAy.TGlzdC8zODc5LC0zNzI4ODE3MTY=.html)
-at ETH Zurich in the field of optomechanics at the [Nanophotonic Systems
-Laboratory](https://light.ethz.ch/). My research focuses on the interaction between
-light and mechanical motion, combining levitated nanoparticles with integrated
-photonics. In my free time, I like to collect elevation meters on foot or bike 🚲
+Hi, I'm Joost! I'm a PhD student in quantum optomechanics at ETH Zurich's
+[Nanophotonic Systems Laboratory](https://light.ethz.ch/), where I study the
+interaction between light and mechanical motion, combining levitated
+nanoparticles with integrated photonics. I'm drawn to one question that 
+has followed me across different platforms: how do physical systems 
+carry information and can we utilise it? I also really enjoy the fabrication 
+side of this: how to actually build these systems, especially at the nanoscale.
 
-During my master's at ETH, I worked on electromechanical systems in the quantum
-regime in the [Hybrid Quantum Systems group](https://hyqu.ethz.ch/). I was also a
-resident at [Xanadu](https://xanadu.ai/) in Toronto in 2022, where I worked with the
-architecture team on their quantum error correction simulation software,
-[FlamingPy](https://github.com/XanaduAI/flamingpy). After graduating, I worked at
-[Extropic](https://www.extropic.ai/) in Québec, exploring thermodynamic computing
-with superconducting circuits.
+That interest runs through most projects I've worked on. During my master's in 
+the [Hybrid Quantum Systems group](https://hyqu.ethz.ch/) at ETH, I worked on
+electromechanical systems in the quantum regime — information encoded in
+mechanical motion. As a resident at [Xanadu](https://xanadu.ai/) in Toronto
+(2022), I worked with the architecture team on
+[FlamingPy](https://github.com/XanaduAI/flamingpy), their photonic
+quantum-error-correction simulator, and wrote a 
+[demo on measurement-based quantum computation](https://pennylane.ai/demos/tutorial_mbqc). 
+At [Extropic](https://www.extropic.ai/) in Québec, I explored thermodynamic 
+computing with superconducting circuits, where thermal fluctuations themselves 
+become the computational resource ([paper](https://arxiv.org/abs/2607.16183)). 
+Now, I'm returning to mechanics and I'm adding light to my toolbox.
 
-I'm broadly interested in quantum technologies, unconventional computing paradigms,
-and nanofabrication. I've worked with superconductors and mechanics, and I'm now working
-in photonics.
+I grew up in Limburg, the Netherlands, and studied in Delft and Zurich. In my
+free time I like to collect elevation meters on foot or by bike 🚲. The best
+way to reach me is by email.
