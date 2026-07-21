@@ -28,20 +28,22 @@ interaction between light and mechanical motion, combining levitated
 nanoparticles with integrated photonics. I'm drawn to one question that 
 has followed me across different platforms: how do physical systems 
 carry information and can we utilise it? I also really enjoy the fabrication 
-side of this: how to actually build these systems, especially at the nanoscale.
+side of this pursuit: how to actually build interesting and useful nanoscale systems.
 
-That interest runs through most projects I've worked on. During my master's in 
-the [Hybrid Quantum Systems group](https://hyqu.ethz.ch/) at ETH, I worked on
-electromechanical systems in the quantum regime — information encoded in
-mechanical motion. As a resident at [Xanadu](https://xanadu.ai/) in Toronto
-(2022), I worked with the architecture team on
+Those interests run through most projects I've worked on in the last few years. 
+During my master's in the [Hybrid Quantum Systems group](https://hyqu.ethz.ch/) 
+at ETH, I fabricated and measured electromechanical systems in the quantum regime where 
+information is encoded in mechanical motion. As a resident at [Xanadu](https://xanadu.ai/) in Toronto
+(2022), I developed software with the architecture team for
 [FlamingPy](https://github.com/XanaduAI/flamingpy), their photonic
 quantum-error-correction simulator, and wrote a 
 [demo on measurement-based quantum computation](https://pennylane.ai/demos/tutorial_mbqc). 
 At [Extropic](https://www.extropic.ai/) in Québec, I explored thermodynamic 
 computing with superconducting circuits, where thermal fluctuations themselves 
-become the computational resource ([paper](https://arxiv.org/abs/2607.16183)). 
-Now, I'm returning to mechanics and I'm adding light to my toolbox.
+become the computational resource ([paper](https://arxiv.org/abs/2607.16183)).
+There, I was responsible for the nanofabrication of our superconducting devices,
+and contributed to the device design and measurement. Now back in Zurich, 
+I returned to mechanics and I'm adding light to my toolbox.
 
 I grew up in Limburg, the Netherlands, and studied in Delft and Zurich. In my
 free time I like to collect elevation meters on foot or by bike 🚲. The best
